@@ -36,17 +36,14 @@ Claro, aquí tienes una estructura similar pero enfocada en Arduino, que es una 
 * **Creación de librerías personalizadas**: Desarrollar y compartir tus propias librerías.
 
 ### 10. Programación Orientada a Objetos (OOP)
-
 * **Clases y objetos**: Aunque Arduino se basa en C/C++, se pueden utilizar conceptos de OOP para estructurar el código de manera más eficiente.
 * **Herencia y polimorfismo**: Utilizar para crear código modular y reutilizable.
 
 ### 11. Proyectos Avanzados y Optimización
-
 * **Optimización de memoria**: Técnicas para gestionar el uso de memoria en proyectos complejos.
 * **Proyectos avanzados**: Ejemplos de proyectos que integran múltiples sensores, actuadores y comunicaciones.
 
 ### 12. Integración con Otros Sistemas
-
 * **Conexión con Internet**: Usar módulos WiFi o Ethernet para conectar Arduino a la red.
 * **Interfaz con software**: Comunicar Arduino con software en el computador, como Python, para crear aplicaciones interactivas.
 
