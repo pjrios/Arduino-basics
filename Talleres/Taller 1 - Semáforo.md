@@ -1,7 +1,4 @@
 ## Materiales necesarios:
-
-^bb62e2
-
 * 1 Arduino Uno o similar.
 * 3 LEDs (rojo, amarillo, verde).
 * 3 resistencias de 220 ohmios.
