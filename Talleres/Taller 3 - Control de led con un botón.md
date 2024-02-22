@@ -1,6 +1,3 @@
----
-status: done
----
 ## Materiales necesarios:
 - 1 Arduino Uno o similar.
 - 1 LED.
